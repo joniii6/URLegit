@@ -2,7 +2,6 @@ pandas
 matplotlib
 tld
 tldextract
-os
 nltk
 re
 time
