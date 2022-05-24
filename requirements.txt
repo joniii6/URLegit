@@ -3,7 +3,6 @@ matplotlib
 tld
 tldextract
 nltk
-re
 time
 numpy
 math
