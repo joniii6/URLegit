@@ -1,6 +1,5 @@
 pandas
 matplotlib
-urllib
 tld
 tldextract
 os
