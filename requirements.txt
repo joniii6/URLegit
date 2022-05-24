@@ -3,7 +3,6 @@ matplotlib
 tld
 tldextract
 nltk
-time
 numpy
 math
 joblib
