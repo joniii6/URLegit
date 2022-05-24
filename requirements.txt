@@ -1,0 +1,12 @@
+pandas
+matplotlib
+urllib
+tld
+tldextract
+os
+nltk
+re
+time
+numpy
+math
+joblib
