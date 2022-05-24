@@ -5,3 +5,4 @@ tldextract
 nltk
 numpy
 joblib
+seaborn
