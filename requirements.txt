@@ -4,5 +4,4 @@ tld
 tldextract
 nltk
 numpy
-math
 joblib
